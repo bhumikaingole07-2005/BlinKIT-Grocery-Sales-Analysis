@@ -30,11 +30,6 @@ BlinkIT-Grocery-Sales-Analysis
 ├── Dashboard
 └── Images
 ```
-
-## 📸 Dashboard Preview
-
-![Dashboard](Dashboard/BlinkIT_Dashboard.png)
-
 ## 👩‍💻 Author
 
 Bhumika Ingole
